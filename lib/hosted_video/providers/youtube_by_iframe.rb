@@ -1,3 +1,5 @@
+require 'hosted_video/providers/youtube'
+
 module HostedVideo
   module Providers
     class YoutubeByIframe < Youtube

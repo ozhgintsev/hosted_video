@@ -1,3 +1,5 @@
+require 'hosted_video/providers/rutube'
+
 module HostedVideo
   module Providers
     class RutubeByIframe < Rutube

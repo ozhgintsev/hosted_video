@@ -1,3 +1,5 @@
+require 'hosted_video/providers/vimeo'
+
 module HostedVideo
   module Providers
     class VimeoByIframe < Vimeo
